@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 NIKHIL JATALE
 I'm Nikhil Jatale, a Computer Science student at MITAOE who enjoys solving challenging problems and building useful software.<br><br>My interests lie in Competitive Programming, Backend Development, and System Design. I actively participate in coding contests, work on real-world projects, and continuously learn new technologies to improve as a software engineer.<br><br>💻 C++ | Python | Java | JavaScript | Node.js | Express.js<br><br>🏆 Codeforces Pupil • LeetCode Knight • CodeChef 3★ Programmer<br><br>📈 1800+ Problems Solved • 160+ Contests Participated<br><br>🎯 Currently focused on Competitive Programming, Backend Engineering, and ICPC preparation.
 
 
