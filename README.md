@@ -1,5 +1,4 @@
-<img width="1778" height="691" alt="image" src="https://github.com/user-attachments/assets/f9174638-c23b-4b7d-9603-6983290525f5" /># HEY<img width="1778" height="691" alt="image" src="https://github.com/user-attachments/assets/4b38f6c4-1fe9-47da-a2ae-dd8a94b72025" />
- NIKHIL JATALE HERE,
+HEY👋 NIKHIL JATALE HERE,
 I'm an Computer Science student at MITAOE who enjoys solving challenging problems and building useful software.<br><br>My interests lie in Competitive Programming, Backend Development, and System Design. I actively participate in coding contests, work on real-world projects, and continuously learn new technologies to improve as a software engineer.<br><br>💻 C++ | Python | Java | JavaScript | Node.js | Express.js<br><br>🏆 Codeforces Pupil • LeetCode Knight • CodeChef 3★ Programmer<br><br>📈 1800+ Problems Solved • 160+ Contests Participated<br><br>🎯 Currently focused on Competitive Programming, Backend Engineering, and ICPC preparation.
 
 
